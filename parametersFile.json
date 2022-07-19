@@ -1,0 +1,30 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "dnsLabelPrefix": {
+      "value": null
+    },
+    "adminUsername": {
+      "value": null
+    },
+    "deviceConnectionString": {
+      "value": null
+    },
+    "vmSize": {
+      "value": "Standard_DS1_v2"
+    },
+    "ubuntuOSVersion": {
+      "value": "20_04-lts"
+    },
+    "authenticationType": {
+      "value": "sshPublicKey"
+    },
+    "adminPasswordOrKey": {
+      "value": null
+    },
+    "allowSsh": {
+      "value": true
+    }
+  }
+}
