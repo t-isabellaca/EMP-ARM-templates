@@ -9,7 +9,7 @@
       "value": "emp-admin"
     },
     "deviceConnectionString": {
-      "value": null
+      "value": ""
     },
     "vmSize": {
       "value": "Standard_DS1_v2"
