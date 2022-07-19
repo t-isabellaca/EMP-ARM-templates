@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "dnsLabelPrefix": {
-      "value": null
+      "value": "emp-ubuntu-vm"
     },
     "adminUsername": {
-      "value": null
+      "value": "emp-admin"
     },
     "deviceConnectionString": {
       "value": null
@@ -18,10 +18,10 @@
       "value": "20_04-lts"
     },
     "authenticationType": {
-      "value": "sshPublicKey"
+      "value": "password"
     },
     "adminPasswordOrKey": {
-      "value": null
+      "value": "12345emp
     },
     "allowSsh": {
       "value": true
