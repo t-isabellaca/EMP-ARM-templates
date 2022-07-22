@@ -15,7 +15,7 @@
         "value": "EMPassword123"
       },
       "dnsLabelPrefix": {
-        "value": "[toLower(format('{0}-{1}', parameters('vmName'), uniqueString(resourceGroup().id)))]"
+        "value": "EMP-Ubuntu-VM-DNS"
       },
       "ubuntuOSVersion": {
         "value": "18.04-LTS"
