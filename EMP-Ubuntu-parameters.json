@@ -15,7 +15,7 @@
         "value": "EMPassword123"
       },
       "dnsLabelPrefix": {
-        "value": "EMPUbuntuVMDNS"
+        "value": "empubuntuvmdns"
       },
       "ubuntuOSVersion": {
         "value": "18.04-LTS"
