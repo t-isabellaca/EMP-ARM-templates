@@ -21,7 +21,7 @@
         "value": "18.04-LTS"
       },
       "location": {
-        "value": "West US 2"
+        "value": "West US"
       },
       "vmSize": {
         "value": "Standard_B2s"
