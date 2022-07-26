@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
        "hubName": {
-        "value": "EMPIoTHub"
+        "value": "empiothub"
       },
       "vmName": {
         "value": "simpleLinuxVM"
