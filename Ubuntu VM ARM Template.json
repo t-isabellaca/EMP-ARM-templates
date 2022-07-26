@@ -11,7 +11,7 @@
     "parameters": {
         "hubName": {
             "type": "string"
-        }
+        },
         "vmName": {
             "type": "string",
             "defaultValue": "simpleLinuxVM",
