@@ -213,7 +213,7 @@
           "publicIPAllocationMethod": "Dynamic",
           "publicIPAddressVersion": "IPv4",
           "dnsSettings": {
-            "domainNameLabel": "[toLower(concat(split(parameters('resourceGroupName'),'-')[0], 'ubuntuvmemp'))]"
+            "domainNameLabel": "[toLower(concat(split(resourceGroup().name,'-')[0], 'ubuntuvmemp'))]"
           },
           "idleTimeoutInMinutes": 4
         }
