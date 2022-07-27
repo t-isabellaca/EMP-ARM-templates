@@ -263,7 +263,7 @@
     "outputs": {
       "dnsName": {
         "type": "string",
-        "value": "[toLower(concat(split(resourceGroup().name,'-')[0],'ubuntuvmemp', '.', replace(parameters('location'), ' ', '') , '.', 'cloudapp.azure.com')]"
+        "value": "[toLower(concat(split(resourceGroup().name,'-')[0],'ubuntuvmemp', '.', replace(parameters('location'), ' ', '') , '.', 'cloudapp.azure.com'))]"
       }
     }
   }
