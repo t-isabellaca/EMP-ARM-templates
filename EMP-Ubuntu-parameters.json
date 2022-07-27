@@ -17,9 +17,6 @@
       "adminPasswordOrKey": {
         "value": "EMPassword123"
       },
-      "dnsLabelPrefix": {
-        "value": "ubuntuvmdns"
-      },
       "ubuntuOSVersion": {
         "value": "18.04-LTS"
       },
